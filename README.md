@@ -6,5 +6,5 @@ The main scope of my working/experinece area includes process modeling in the fi
 
 
 examples:
-<p align="center"> <img src="https://github.com/2dof/briefcase/drawnings/edf1.png" width="400" height="300" />
+<p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/edf1.png" width="400" height="300" />
 <br> figure A0.</p>
