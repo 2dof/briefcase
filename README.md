@@ -22,8 +22,9 @@ examples:
 | --- | --- |
  
  
-  | Command | Description |
+  | <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/material_damage.png" width="200" height="150" /> | Damage detection/segmentation on bandage line production <br /> - separate parameters configurations for burst material and double interlacing <br /> -segmentation in in the presence of heterogeneous light (shadows) |
 | --- | --- |
  
- 
+   | Command | Description |
+| --- | --- |
  
