@@ -1,13 +1,16 @@
 # briefcase
 The main scope of my working/experinece area includes process modeling in the field of advanced numerical algorithms including:
+* DSP and image procesing R&D with Machine learning and Deep learning
 * Miedical Alghoritmis: ECG / EEG signal processing  ( from embedded to machine learning solutions), Image processing like:
   * ECG algorithms analysis ( ISO EN 60601-2-47,-2-27, -2-25 + ISO 14971) 
   * EEG algorithms analysis ( evenst/feature extraction)
+  *  blood glucose level estimation  with EKF/UKF 
   * Image processing (microscopic image procesing, objectecs/feature extraction) 
-* Control Alghoritmis and process simulation ( form basic PID to fuzzy/advanced, Kalmam filter)
+* Control Alghoritmis and process simulation and identyfication ( + fuzzy logic, kalman filtering)
 * Image/data processing for feture extraction/anomaly, for example:
   * material damage detection
   * object feature extraction, detection and tracking 
+* mechatronic and embedded systems (esp32, RPI) modeling and R&D  
  
   
 
