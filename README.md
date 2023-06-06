@@ -1,18 +1,34 @@
-# briefcase
+
 The main scope of my working/experinece area includes process modeling in the field of advanced numerical algorithms including:
-* DSP and image procesing R&D with Machine learning and Deep learning
-* Miedical Alghoritmis: ECG / EEG signal processing  ( from embedded to machine learning solutions), Image processing like:
-  * ECG algorithms analysis ( ISO EN 60601-2-47,-2-27, -2-25 + ISO 14971) 
-  * EEG algorithms analysis ( evenst/feature extraction)
-  *  blood glucose level estimation  with EKF/UKF 
-  * Image processing (microscopic image procesing, objectecs/feature extraction) 
-* Control Alghoritmis and process simulation and identyfication ( + fuzzy logic, kalman filtering)
-* Image/data processing for feture extraction/anomaly, for example:
-  * material damage detection
-  * object feature extraction, detection and tracking 
-* mechatronic and embedded systems (esp32, RPI) modeling and R&D  
+ ```python
  
-  
+├── [Biomedical Signal Processing]                 ( from embeded  do Machone learning solutions) 
+│      ├── ECG DSP                                -> ISO EN 60601-2-47,-2-27, -2-25 +ISO 14971 
+│      ├── EEG DSP                                -> evenst/feature extraction  
+│      ├── other: SPO2,blood glucose      
+│    
+├─── [Control Design and process simulation]
+|      ├──Advanced control algorithms             -
+|      ├──identification & optimization          
+|      ├──Phsical process modeling                 -> Mechanics, mechatronics sustems,  Vibration analysis, dynamic simulations 
+|
+├─── [DSP and IP procesing]
+|      ├─data acquisition and analysis            -> statistical and spectral methods 
+|      ├── filters design and simulations
+|      ├── feature extraction                     -> object feature extraction, detection and tracking 
+|      ├─ audio processing   
+|
+├─── [Machine learning and Deep learning]          (Supervised vs Unsupervised methods)      
+|      ├─ Time series forecasting
+|      ├─ classification, feature extraction
+|
+├─── [ mechatronic and embedded systems ]          
+|      ├─ ESP32 + IOT 
+└──  
+ 
+ ``` 
+ 
+ 
 
 
 examples:
@@ -28,6 +44,6 @@ examples:
   | <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/material_damage.png" width="200" height="150" /> | Damage detection/segmentation on bandage line production <br /> - separate parameters configurations for burst material and double interlacing <br /> -segmentation in in the presence of heterogeneous light (shadows) |
 | --- | --- |
  
-   | Command | Description |
+   | <image> | <Description> |
 | --- | --- |
  
