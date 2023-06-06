@@ -41,8 +41,9 @@ Below you will find some example screens shots ( some commercial projects not pr
  
  
  | <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/material_damage.png" width="200" height="150" /> | Damage detection/segmentation on bandage line production <br /> - separate parameters configurations for burst material and double interlacing <br /> -segmentation in in the presence of heterogeneous light (shadows) |
-| --- | --- |
+| <p align="center"> <img src=" https://github.com/2dof/briefcase/blob/main/drawnings/labview_keller.png" width="200" height="150" /> | labview app for keller pressure sensors testing <br /> -Modbus RTU,  noise filters design, full settings and sensor control |
  
    | <image> | <Description> |
 | --- | --- |
+ 
  
