@@ -10,12 +10,12 @@ The main scope of my working/experinece area includes process modeling in the fi
 ├─── [Control Design and process simulation]
 |      ├──Advanced control algorithms             -
 |      ├──identification & optimization          
-|      ├──Phsical process modeling                 -> Mechanics, mechatronics sustems,  Vibration analysis, dynamic simulations 
+|      ├──Phsical process modeling                -> Mechanics, mechatronics sustems, Vibration analysis, dynamic simulations 
 |
 ├─── [DSP and IP procesing]
-|      ├─data acquisition and analysis            -> statistical and spectral methods 
-|      ├── filters design and simulations
-|      ├── feature extraction                     -> object feature extraction, detection and tracking 
+|      ├─data acquisition and analysis,statistical and spectral analysis     
+|      ├── filters design and simulations         
+|      ├── object feature extraction, detection and tracking                   
 |      ├─ audio processing   
 |
 ├─── [Machine learning and Deep learning]          (Supervised vs Unsupervised methods)      
