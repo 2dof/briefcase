@@ -31,7 +31,7 @@ The main scope of my working/experinece area includes process modeling in the fi
  
 
 
-examples:
+some short examples and description:
 
 | <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/edf1.png" width="200" height="150" /> | seizure episodes detection and attack predictions <br /> based on frequency spectral analysis |
 | --- | --- |
@@ -41,7 +41,7 @@ examples:
 | --- | --- |
  
  
-  | <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/material_damage.png" width="200" height="150" /> | Damage detection/segmentation on bandage line production <br /> - separate parameters configurations for burst material and double interlacing <br /> -segmentation in in the presence of heterogeneous light (shadows) |
+ | <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/material_damage.png" width="200" height="150" /> | Damage detection/segmentation on bandage line production <br /> - separate parameters configurations for burst material and double interlacing <br /> -segmentation in in the presence of heterogeneous light (shadows) |
 | --- | --- |
  
    | <image> | <Description> |
