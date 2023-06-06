@@ -28,6 +28,7 @@ The main scope of my working/experinece area includes process modeling in the fi
  
  ``` 
  
+Below you will find some example screens shots ( some commercial projects not presented): 
  
  
 
