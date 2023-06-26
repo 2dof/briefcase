@@ -4,7 +4,7 @@ The main scope of my working/experinece area includes process modeling in the fi
  
 ├── [Biomedical Signal Processing]                 ( from embeded  do Machone learning solutions) 
 │      ├── ECG DSP                                -> ISO EN 60601-2-47,-2-27, -2-25 +ISO 14971 
-│      ├── EEG DSP                                -> evenst/feature extraction  
+│      ├── EEG DSP                                -> events/feature extraction  
 │      ├── other: SPO2,blood glucose      
 │    
 ├─── [Control Design and process simulation]
@@ -30,8 +30,6 @@ The main scope of my working/experinece area includes process modeling in the fi
  
 Below you will find some example screens shots ( some commercial projects not presented): 
  
- 
-
 | <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/edf1.png" width="200" height="150" /> | seizure episodes detection and attack predictions <br /> based on frequency spectral analysis |
 | --- | --- |
 
