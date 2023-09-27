@@ -2,15 +2,15 @@
 The main scope of my working/experinece area includes process modeling in the field of advanced numerical algorithms including:
  ```python
  
-├── [Biomedical Signal Processing]                 ( from embeded  do Machone learning solutions) 
+├── [Biomedical Signal Processing]                 ( from embeded  do Machine learning solutions) 
 │      ├── ECG DSP                                -> ISO EN 60601-2-47,-2-27, -2-25 +ISO 14971 
 │      ├── EEG DSP                                -> events/feature extraction  
 │      ├── other: SPO2,blood glucose      
 │    
-├─── [Control Design and process simulation]
-|      ├──Advanced control algorithms             -
+├─── [Control Design and process simulation]      - 
+|      ├──Advanced control algorithms             
 |      ├──identification & optimization          
-|      ├──Phsical process modeling                -> Mechanics, mechatronics sustems, Vibration analysis, dynamic simulations 
+|      ├──Phsical process modeling                -> Mechanics, mechatronics suytems, Vibration analysis, dynamic simulations 
 |
 ├─── [DSP and IP procesing]
 |      ├─data acquisition and analysis,statistical and spectral analysis     
