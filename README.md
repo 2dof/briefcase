@@ -28,9 +28,9 @@ The main scope of my working/experinece area includes process modeling in the fi
  
  ``` 
  
-Below you will find some example screens shots ( some commercial projects not presented): 
+Below you will find some example screens shots (some commercial projects not presented): 
  
-| <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/edf1.png" width="200" height="150" /> | seizure episodes detection and attack predictions <br /> based on frequency spectral analysis |
+| <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/edf1.png" width="200" height="150" /> | seizure episodes detection and attack predictions <br />  |
 | --- | --- |
 
  
@@ -40,11 +40,11 @@ Below you will find some example screens shots ( some commercial projects not pr
    | <img src="https://github.com/2dof/briefcase/blob/main/drawnings/material_damage.png" width="200" height="150" /> |  Damage detection/segmentation on bandage line production <br /> - separate parameters configurations for burst material and double interlacing <br /> -segmentation in in the presence of heterogeneous light (shadows) |
 | --- | --- |
  
-| <img src="https://github.com/2dof/briefcase/blob/main/drawnings/labview_keller.png" width="200" height="150" /> | labview app for keller pressure sensors testing <br />   Modbus RTU,  noise filters design, full settings and sensor control |
+| <img src="https://github.com/2dof/briefcase/blob/main/drawnings/labview_keller.png" width="200" height="150" /> | labview app for keller pressure sensors testing <br />   Modbus RTU, noise filters design, full settings and sensor control |
 | --- | --- |  
  
  
-| <image> | <Description> |
+| <img src="https://github.com/2dof/briefcase/blob/main/drawnings/blocks_schem.png" width="200" height="150" /> | Universal PID Controller platform: <br /> - platforms/interfaces: easy implementation as hardware/soft platform (ESP MCU family,  <br />Raspberry PI, web server,(4 or 5 key keyboard, OLED (0.91/0.92)  <br />with multilevel menu and multiple views, UART inteface for HMI Control/), <br /> - PID, On-Off control, antiwind-up, Man/Auto bumpless selector <br /> -Setpoint processing: user/external setting, Curve generation, alarms <br /> -PV processig, thermocouple K,J calculation, alarms, <br /> - CV processing: PWM , Relay  output, alarms  | 
 | --- | --- |
  
  
