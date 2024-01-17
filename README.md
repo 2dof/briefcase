@@ -33,6 +33,8 @@ Below you will find some example screens shots (some commercial projects not pre
 | <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/edf1.png" width="200" height="150" /> | seizure episodes detection and attack predictions <br />  |
 | --- | --- |
 
+| <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/edf1.png" width="200" height="150" /> | seizure episodes detection and attack predictions <br />  |
+| --- | --- |
  
  |<p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/lidar.png" width="200" height="150" /> | Lidar Data/Immage segmentations <br /> - feature image segmentation for lakes, rivers, roads ( length, area calculation)  |
 | --- | --- |
