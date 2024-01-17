@@ -48,5 +48,5 @@ Below you will find some example screens shots (some commercial projects not pre
 
 
  | <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/ecg_test_2.gif" width="800" height="200" /> | ecg monitor - IN PROGRESS <br />  |
-| --- | --- |
+| <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/ecg_test_1.gif" width="800" height="200" />| --- |
  
