@@ -47,5 +47,5 @@ Below you will find some example screens shots (some commercial projects not pre
 | --- | --- |
 
 
- | <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/ecg_test_2.gif" width="800" height="200" /> <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/ecg_test_1 .gif" width="800" height="200" /> | ecg widget monitor - IN PROGRESS <br /> - Hi/Low BPM color alarm intidaction <br /> - sinlge/muliple ECG lead plot | 
+ | <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/ecg_test_2.gif" width="800" height="200" /> <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/ecg_test_1 .gif" width="800" height="200" /> | ecg widget monitor - IN PROGRESS <br />  | 
  | --- | --- |
