@@ -23,7 +23,7 @@ The main scope of my working/experinece area includes process modeling in the fi
 |      ├─ classification, feature extraction
 |
 ├─── [ mechatronic and embedded systems ]          
-|      ├─ ESP32 + IOT 
+|      ├─ ESP32 + IOT (mostly DSP, Control algorithms, neural networks (mlp, rbf) in indetification and control adaptation algorithms)
 └──  
  
  ``` 
