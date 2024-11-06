@@ -7,10 +7,10 @@ The main scope of my working/experinece area includes process modeling in the fi
 │      ├── EEG DSP                                -> events/feature extraction  
 │      ├── other: SPO2,blood glucose      
 │    
-├─── [Control Design and process simulation]      - 
+├─── [Control Design and process simulation]       
 |      ├──Advanced control algorithms             
 |      ├──identification & optimization          
-|      ├──Phsical process modeling                -> Mechanics, mechatronics suytems, Vibration analysis, dynamic simulations 
+|      ├──Phsical process modeling                -> Mechanics, mechatronics systems, Vibration analysis, dynamic simulations 
 |
 ├─── [DSP and IP procesing]
 |      ├─data acquisition and analysis,statistical and spectral analysis     
