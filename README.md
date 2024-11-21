@@ -1,5 +1,4 @@
-
-The main scope of my working/experinece area includes process modeling in the field of advanced numerical algorithms including:
+My area of ​​interest:
  ```python
  
 ├── [Biomedical Signal Processing]                 ( from embeded  do Machine learning solutions) 
@@ -10,7 +9,8 @@ The main scope of my working/experinece area includes process modeling in the fi
 ├─── [Control Design and process simulation]       
 |      ├──Advanced control algorithms             
 |      ├──identification & optimization          
-|      ├──Phsical process modeling                -> Mechanics, mechatronics systems, Vibration analysis, dynamic simulations 
+|      ├──Phsical process modeling                -> Mechanics, mechatronics systems, Vibration analysis, dynamic simulations
+|      ├──Kalman Filter
 |
 ├─── [DSP and IP procesing]
 |      ├─data acquisition and analysis,statistical and spectral analysis     
@@ -21,6 +21,7 @@ The main scope of my working/experinece area includes process modeling in the fi
 ├─── [Machine learning and Deep learning]          (Supervised vs Unsupervised methods)      
 |      ├─ Time series forecasting
 |      ├─ classification, feature extraction
+|      ├─ RBF and MLP neuron net 
 |
 ├─── [ mechatronic and embedded systems ]          
 |      ├─ ESP32 + IOT (mostly DSP, Control algorithms, neural networks (mlp, rbf) in indetification and control adaptation algorithms)
