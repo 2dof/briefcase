@@ -11,7 +11,7 @@ My area of ​​interest:
 |      ├──Advanced control algorithms             
 |      ├──identification & optimization          
 |      ├──Phsical process modeling                -> Mechanics, mechatronics systems, Vibration analysis, dynamic simulations
-|      ├──Kalman Filter
+|    
 |
 ├─── [DSP and IP procesing]
 |      ├─data acquisition and analysis,statistical and spectral analysis     
@@ -24,14 +24,16 @@ My area of ​​interest:
 |      ├─ classification, feature extraction
 |      ├─ RBF and MLP neuron net 
 |
-├─── [ mechatronic and embedded systems ]          
+├─── [ embedded systems ]          
 |      ├─ ESP32 + IOT, RP2040, Raspbery PI (mostly DSP, Control algorithms, neural networks (mlp, rbf) in indetification and control adaptation algorithms)
+|      ├─ mechatronic and sensors.
+|      ├─  
 
 └──  
  
  ``` 
  
-Below you will find some example screens shots (some commercial projects not presented): 
+Below you will find some example snapshots : 
  
 | <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/edf1.png" width="200" height="150" /> | seizure episodes detection and attack predictions. <br />  |
 | --- | --- |
