@@ -5,7 +5,8 @@ My area of ​​interest:
 │      ├── ECG DSP                                -> ISO EN 60601-2-47,-2-27, -2-25 +ISO 14971 
 │      ├── EEG DSP                                -> events/feature extraction  
 │      ├── other: SPO2,blood glucose      
-│    
+│      ├── Immage processing:  classification, feature extraction 
+│      
 ├─── [Control Design and process simulation]       
 |      ├──Advanced control algorithms             
 |      ├──identification & optimization          
@@ -24,7 +25,8 @@ My area of ​​interest:
 |      ├─ RBF and MLP neuron net 
 |
 ├─── [ mechatronic and embedded systems ]          
-|      ├─ ESP32 + IOT (mostly DSP, Control algorithms, neural networks (mlp, rbf) in indetification and control adaptation algorithms)
+|      ├─ ESP32 + IOT, RP2040, Raspbery PI (mostly DSP, Control algorithms, neural networks (mlp, rbf) in indetification and control adaptation algorithms)
+
 └──  
  
  ``` 
