@@ -33,7 +33,7 @@ My area of ​​interest:
  
 Below you will find some example screens shots (some commercial projects not presented): 
  
-| <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/edf1.png" width="200" height="150" /> | seizure episodes detection and attack predictions <br />  |
+| <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/edf1.png" width="200" height="150" /> | seizure episodes detection and attack predictions. <br />  |
 | --- | --- |
  
  |<p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/lidar.png" width="200" height="150" /> | Lidar Data/Immage segmentations <br /> - feature image segmentation for lakes, rivers, roads ( length, area calculation)  |
@@ -50,5 +50,5 @@ Below you will find some example screens shots (some commercial projects not pre
 | --- | --- |
 
 
- | <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/ecg_test_2.gif" width="700" height="200" /> <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/ecg_test_1 .gif" width="700" height="200" /> | ECG WIDGET MONITOR (in progress) <br /> - Hi/Low BPM color alarm intidaction <br /> - sinlge/muliple ECG lead plot selection | 
+ |  <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/ecg_test_1 .gif" width="700" height="200" /> | ECG WIDGET MONITOR <br /> - just standatd ECG monitor with BPM indication, configurable for multi bio data visualisation.| 
  | --- | --- |
