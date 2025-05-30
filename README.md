@@ -1,13 +1,17 @@
+About me:
+Machine Learning, DSP & Image Processing; biomedical signal processing, IoT; Process control, Exploratory data analysis
+
 My area of ​​interest:
  ```python
  
 ├── [Biomedical Signal Processing]                 ( from embeded  do Machine learning solutions) 
 │      ├── ECG DSP                                -> ISO EN 60601-2-47,-2-27, -2-25 +ISO 14971 
 │      ├── EEG DSP                                -> events/feature extraction  
-│      ├── other: SPO2,blood glucose      
-│      ├── Immage processing:  classification, feature extraction 
+│      ├── other: SPO2,blood glucose dsp     
+│      ├── Immage processing:  classification, feature extraction  
 │      
-├─── [Control Design and process simulation]       
+├─── [Control Design and process simulation]
+|      ├──Nonlinear dynamic systems modeling and simulation 
 |      ├──Advanced control algorithms             
 |      ├──identification & optimization          
 |      ├──Phsical process modeling                -> Mechanics, mechatronics systems, Vibration analysis, dynamic simulations
@@ -25,15 +29,14 @@ My area of ​​interest:
 |      ├─ RBF and MLP neuron net 
 |
 ├─── [ embedded systems ]          
-|      ├─ ESP32 + IOT, RP2040, Raspbery PI (mostly DSP, Control algorithms, neural networks (mlp, rbf) in indetification and control adaptation algorithms)
+|      ├─ ESP32/RPI2040 + IOT, RP2040, Raspbery PI (mostly DSP, Control algorithms, neural networks (mlp, rbf) in indetification and control adaptation algorithms)
 |      ├─ mechatronic and sensors.
 |      ├─  
-
 └──  
  
  ``` 
  
-Below you will find some example snapshots : 
+Below  some examplse snapshots (not all projects/work is presented): 
  
 | <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/edf1.png" width="200" height="150" /> | seizure episodes detection and attack predictions. <br />  |
 | --- | --- |
@@ -52,5 +55,5 @@ Below you will find some example snapshots :
 | --- | --- |
 
 
- |  <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/ecg_test_1 .gif" width="700" height="200" /> | ECG WIDGET MONITOR <br /> - just standatd ECG monitor with BPM indication, configurable for multi bio data visualisation Real time signal visualisation and processing.| 
+ |  <p align="center"> <img src="https://github.com/2dof/briefcase/blob/main/drawnings/ecg_test_1 .gif" width="350" height="100" /> | ECG WIDGET MONITOR <br /> - just standatd ECG monitor with BPM indication, configurable for multi-bio real time signal visualisation and processing.| 
  | --- | --- |
